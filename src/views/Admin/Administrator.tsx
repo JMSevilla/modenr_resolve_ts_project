@@ -63,7 +63,7 @@ const Administrator = (): JSX.Element => {
         <SystemCard>
           <CardContent>
             <Typography variant="h6">
-              MDR Core System | Administrator Registration
+              MDR Core System | System Administrator Registration
             </Typography>
             <hr />
             <SystemGrid
